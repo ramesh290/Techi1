@@ -3,7 +3,7 @@
 This is a web based application developed for technology related website
 
 This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-Project Link -https://Techi1.azurewebsites.net
+Project Link -https://techi1.azurewebsites.net
 
 Features and Functionalities 😃
 Interactive and responsive UI.
